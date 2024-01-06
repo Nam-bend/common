@@ -1,0 +1,26 @@
+#1.Những project thích hợp cho waterfall
+-Trong lĩnh vực Công nghệ thông tin (IT), Waterfall thường được áp dụng trong các dự án có yêu cầu cụ thể và không thay đổi nhiều sau khi đã định rõ từ đầu. Có một số dự án trong lĩnh vực IT thích hợp cho phương pháp Waterfall:
+   +Phát triển phần mềm với yêu cầu cố định: Khi yêu cầu cho sản phẩm phần mềm đã được xác định rõ ràng từ đầu và không có nhiều thay đổi, Waterfall có thể được áp dụng hiệu quả.
+   +Dự án xây dựng hệ thống cơ sở hạ tầng IT: Như việc triển khai một mạng lưới mới, cải tiến hạ tầng, hoặc triển khai các hệ thống lớn có thể áp dụng Waterfall vì quy trình triển khai có thể được xác định trước
+   +Dự án với yêu cầu bảo mật cao , pháp lí: Trong một số trường hợp, các dự án yêu cầu mức độ bảo mật cao có thể thích hợp với Waterfall, vì việc thiết kế và triển khai các biện pháp bảo mật có thể được xác định rõ ràng từ đầu.
+-Tuy nhiên, Waterfall có nhược điểm là không linh hoạt khi cần thay đổi yêu cầu hoặc cần phản hồi linh hoạt trong quá trình phát triển. Vì 
+   +Yêu cầu cố định từ đầu: Waterfall giả định rằng yêu cầu của dự án được xác định rõ ràng từ đầu và không thay đổi. Khi có sự thay đổi, việc thêm hoặc sửa đổi yêu cầu sau khi đã bước vào giai đoạn tiếp theo có thể gây ra các vấn đề lớn về thời gian và ngân sách.
+   + Thiết kế tất cả trước khi bắt đầu phát triển: Waterfall yêu cầu phải hoàn thành thiết kế hoàn chỉnh trước khi bắt đầu phát triển. Điều này có thể tạo áp lực lớn khi phát hiện ra cần phải thay đổi sau khi đã bước vào giai đoạn phát triển, khiến việc điều chỉnh trở nên khó khăn.
+   +Khó thay đổi sau khi bước vào giai đoạn tiếp theo: Mỗi giai đoạn trong Waterfall phụ thuộc vào kết quả của giai đoạn trước. Nếu cần thay đổi sau khi đã bắt đầu giai đoạn mới, việc quay lại và sửa đổi có thể phức tạp và tốn kém về thời gian và chi phí.
+  +Ít phản hồi từ khách hàng: Waterfall thường không cung cấp cơ hội cho khách hàng thấy sản phẩm trung gian cho đến khi hoàn thành. Điều này có thể dẫn đến việc không phát hiện sớm các vấn đề và yêu cầu thay đổi.
+#2.Những project cần dùng waterfall
+-Xây dựng công trình vật lý: Trong ngành xây dựng, thi công, hoặc các dự án kiến trúc, Waterfall thường được áp dụng. Việc xác định yêu cầu, thiết kế và triển khai các công việc cụ thể có thể phù hợp với quy trình Waterfall.
+-Y tế và y dược: Trong các dự án phát triển các thiết bị y tế hoặc phần mềm y tế, việc tuân theo các quy định chặt chẽ và yêu cầu cụ thể từ cơ quan quản lý có thể làm Waterfall trở nên phù hợp hơn.
+-Quản lý dự án đòi hỏi sự chính xác và tuân thủ cao: các dự án quản lý, tài chính, hoặc dự án có yêu cầu pháp lý chặt chẽ có thể chọn Waterfall để đảm bảo tính chính xác và tuân thủ
+-Cơ sở hạ tầng và mạng lưới: Việc xây dựng hoặc nâng cấp cơ sở hạ tầng mạng lưới, hệ thống máy chủ, hay cải tiến hệ thống thông tin của doanh nghiệp có thể thích hợp với Waterfall khi yêu cầu rõ ràng từ đầu.
+-Phát triển sản phẩm phần cứng: Trong việc phát triển các sản phẩm vật lý như thiết bị điện tử, Waterfall có thể phù hợp khi các giai đoạn thiết kế, sản xuất và kiểm tra có thể được xác định rõ ràng.
+
+
+
+ 
+
+
+
+
+ 
+
