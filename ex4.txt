@@ -1,19 +1,24 @@
-1.Nh?ng project th�ch h?p cho waterfall
--Trong linh v?c C�ng ngh? th�ng tin (IT), Waterfall thu?ng du?c �p d?ng trong c�c d? �n c� y�u c?u c? th? v� kh�ng thay d?i nhi?u sau khi d� d?nh r� t? d?u. C� m?t s? d? �n trong linh v?c IT th�ch h?p cho phuong ph�p Waterfall:
-  +Ph�t tri?n ph?n m?m v?i y�u c?u c? d?nh: Khi y�u c?u cho s?n ph?m ph?n m?m d� du?c x�c d?nh r� r�ng t? d?u v� kh�ng c� nhi?u thay d?i, Waterfall c� th? du?c �p d?ng hi?u qu?.
-  +D? �n x�y d?ng h? th?ng co s? h? t?ng IT: Nhu vi?c tri?n khai m?t m?ng lu?i m?i, c?i ti?n h? t?ng, ho?c tri?n khai c�c h? th?ng l?n c� th? �p d?ng Waterfall v� quy tr�nh tri?n khai c� th? du?c x�c d?nh tru?c
-  +D? �n v?i y�u c?u b?o m?t cao , ph�p l�: Trong m?t s? tru?ng h?p, c�c d? �n y�u c?u m?c d? b?o m?t cao c� th? th�ch h?p v?i Waterfall, v� vi?c thi?t k? v� tri?n khai c�c bi?n ph�p b?o m?t c� th? du?c x�c d?nh r� r�ng t? d?u.
--Tuy nhi�n, Waterfall c� nhu?c di?m l� kh�ng linh ho?t khi c?n thay d?i y�u c?u ho?c c?n ph?n h?i linh ho?t trong qu� tr�nh ph�t tri?n. V� 
-  +Y�u c?u c? d?nh t? d?u: Waterfall gi? d?nh r?ng y�u c?u c?a d? �n du?c x�c d?nh r� r�ng t? d?u v� kh�ng thay d?i. Khi c� s? thay d?i, vi?c th�m ho?c s?a d?i y�u c?u sau khi d� bu?c v�o giai do?n ti?p theo c� th? g�y ra c�c v?n d? l?n v? th?i gian v� ng�n s�ch.
-  + Thi?t k? t?t c? tru?c khi b?t d?u ph�t tri?n: Waterfall y�u c?u ph?i ho�n th�nh thi?t k? ho�n ch?nh tru?c khi b?t d?u ph�t tri?n. �i?u n�y c� th? t?o �p l?c l?n khi ph�t hi?n ra c?n ph?i thay d?i sau khi d� bu?c v�o giai do?n ph�t tri?n, khi?n vi?c di?u ch?nh tr? n�n kh� khan.
-  +Kh� thay d?i sau khi bu?c v�o giai do?n ti?p theo: M?i giai do?n trong Waterfall ph? thu?c v�o k?t qu? c?a giai do?n tru?c. N?u c?n thay d?i sau khi d� b?t d?u giai do?n m?i, vi?c quay l?i v� s?a d?i c� th? ph?c t?p v� t?n k�m v? th?i gian v� chi ph�.
-  +�t ph?n h?i t? kh�ch h�ng: Waterfall thu?ng kh�ng cung c?p co h?i cho kh�ch h�ng th?y s?n ph?m trung gian cho d?n khi ho�n th�nh. �i?u n�y c� th? d?n d?n vi?c kh�ng ph�t hi?n s?m c�c v?n d? v� y�u c?u thay d?i.
-2.Nh?ng project c?n d�ng waterfall
--X�y d?ng c�ng tr�nh v?t l�: Trong ng�nh x�y d?ng, thi c�ng, ho?c c�c d? �n ki?n tr�c, Waterfall thu?ng du?c �p d?ng. Vi?c x�c d?nh y�u c?u, thi?t k? v� tri?n khai c�c c�ng vi?c c? th? c� th? ph� h?p v?i quy tr�nh Waterfall.
--Y t? v� y du?c: Trong c�c d? �n ph�t tri?n c�c thi?t b? y t? ho?c ph?n m?m y t?, vi?c tu�n theo c�c quy d?nh ch?t ch? v� y�u c?u c? th? t? co quan qu?n l� c� th? l�m Waterfall tr? n�n ph� h?p hon.
--Qu?n l� d? �n d�i h?i s? ch�nh x�c v� tu�n th? cao: c�c d? �n qu?n l�, t�i ch�nh, ho?c d? �n c� y�u c?u ph�p l� ch?t ch? c� th? ch?n Waterfall d? d?m b?o t�nh ch�nh x�c v� tu�n th?
--Co s? h? t?ng v� m?ng lu?i: Vi?c x�y d?ng ho?c n�ng c?p co s? h? t?ng m?ng lu?i, h? th?ng m�y ch?, hay c?i ti?n h? th?ng th�ng tin c?a doanh nghi?p c� th? th�ch h?p v?i Waterfall khi y�u c?u r� r�ng t? d?u.
--Ph�t tri?n s?n ph?m ph?n c?ng: Trong vi?c ph�t tri?n c�c s?n ph?m v?t l� nhu thi?t b? di?n t?, Waterfall c� th? ph� h?p khi c�c giai do?n thi?t k?, s?n xu?t v� ki?m tra c� th? du?c x�c d?nh r� r�ng.
+#1.Những project thích hợp cho waterfall
+-Trong lĩnh vực Công nghệ thông tin (IT), Waterfall thường được áp dụng trong các dự án có yêu cầu cụ thể và không thay đổi nhiều sau khi đã định rõ từ đầu. Có một số dự án trong lĩnh vực IT thích hợp cho phương pháp Waterfall:
+   +Phát triển phần mềm với yêu cầu cố định: Khi yêu cầu cho sản phẩm phần mềm đã được xác định rõ ràng từ đầu và không có nhiều thay đổi, Waterfall có thể được áp dụng hiệu quả.
+   +Dự án xây dựng hệ thống cơ sở hạ tầng IT: Như việc triển khai một mạng lưới mới, cải tiến hạ tầng, hoặc triển khai các hệ thống lớn có thể áp dụng Waterfall vì quy trình triển khai có thể được xác định trước
+   +Dự án với yêu cầu bảo mật cao , pháp lí: Trong một số trường hợp, các dự án yêu cầu mức độ bảo mật cao có thể thích hợp với Waterfall, vì việc thiết kế và triển khai các biện pháp bảo mật có thể được xác định rõ ràng từ đầu.
+-Tuy nhiên, Waterfall có nhược điểm là không linh hoạt khi cần thay đổi yêu cầu hoặc cần phản hồi linh hoạt trong quá trình phát triển. Vì 
+   +Yêu cầu cố định từ đầu: Waterfall giả định rằng yêu cầu của dự án được xác định rõ ràng từ đầu và không thay đổi. Khi có sự thay đổi, việc thêm hoặc sửa đổi yêu cầu sau khi đã bước vào giai đoạn tiếp theo có thể gây ra các vấn đề lớn về thời gian và ngân sách.
+   + Thiết kế tất cả trước khi bắt đầu phát triển: Waterfall yêu cầu phải hoàn thành thiết kế hoàn chỉnh trước khi bắt đầu phát triển. Điều này có thể tạo áp lực lớn khi phát hiện ra cần phải thay đổi sau khi đã bước vào giai đoạn phát triển, khiến việc điều chỉnh trở nên khó khăn.
+   +Khó thay đổi sau khi bước vào giai đoạn tiếp theo: Mỗi giai đoạn trong Waterfall phụ thuộc vào kết quả của giai đoạn trước. Nếu cần thay đổi sau khi đã bắt đầu giai đoạn mới, việc quay lại và sửa đổi có thể phức tạp và tốn kém về thời gian và chi phí.
+  +Ít phản hồi từ khách hàng: Waterfall thường không cung cấp cơ hội cho khách hàng thấy sản phẩm trung gian cho đến khi hoàn thành. Điều này có thể dẫn đến việc không phát hiện sớm các vấn đề và yêu cầu thay đổi.
+#2.Những project cần dùng waterfall
+-Xây dựng công trình vật lý: Trong ngành xây dựng, thi công, hoặc các dự án kiến trúc, Waterfall thường được áp dụng. Việc xác định yêu cầu, thiết kế và triển khai các công việc cụ thể có thể phù hợp với quy trình Waterfall.
+-Y tế và y dược: Trong các dự án phát triển các thiết bị y tế hoặc phần mềm y tế, việc tuân theo các quy định chặt chẽ và yêu cầu cụ thể từ cơ quan quản lý có thể làm Waterfall trở nên phù hợp hơn.
+-Quản lý dự án đòi hỏi sự chính xác và tuân thủ cao: các dự án quản lý, tài chính, hoặc dự án có yêu cầu pháp lý chặt chẽ có thể chọn Waterfall để đảm bảo tính chính xác và tuân thủ
+-Cơ sở hạ tầng và mạng lưới: Việc xây dựng hoặc nâng cấp cơ sở hạ tầng mạng lưới, hệ thống máy chủ, hay cải tiến hệ thống thông tin của doanh nghiệp có thể thích hợp với Waterfall khi yêu cầu rõ ràng từ đầu.
+-Phát triển sản phẩm phần cứng: Trong việc phát triển các sản phẩm vật lý như thiết bị điện tử, Waterfall có thể phù hợp khi các giai đoạn thiết kế, sản xuất và kiểm tra có thể được xác định rõ ràng.
+
+
+
+ 
+
 
 
 
